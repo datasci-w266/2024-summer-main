@@ -61,7 +61,7 @@ By the completion of this course, students will be able to:
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
 * **Jennifer Zhu**: Thursday at 6pm PST
 * **Mark Butler**: TBD
-* **Rachel Gao**: TBD
+* **Rachel Gao**: Thursday at 5pm PST 
 
 
 
@@ -265,7 +265,7 @@ We'll update the table below with assignments as they become available, as well 
 
 *Dates are tentative:* Assignments in particular may change topics and dates.  (Updated slides for each week will be posted during the live session week.)
 
-### Live Session Slides [[available with @berkeley.edu address](https://drive.google.com/drive/folders/17LcHJpuEJSA1CrwkxsBOipt0bDTcBePZ?usp=drive_link)]
+### Live Session Slides [[available with @berkeley.edu address](https://drive.google.com/drive/folders/13nR8lo7v8K7nTkvQf9-5UXIHyKVF3SUW?usp=drive_link)]
 
 ### Deliverables
 
