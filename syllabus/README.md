@@ -277,18 +277,18 @@ will be released around the last live session of the week and due approximately 
 <th></th><th>Topic</th><th>Release</th><th>Deadline</th>
 </tr>
 
-<!-- <tr>
+<tr>
   <td>
-  <!-- <strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>  -->
-  <!-- Assignment&nbsp;0
+  <strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>
+  <!-- Assignment&nbsp;0 -->
   <td><strong>Course Set-up</strong>
   <ul>
     <li>GitHub
     <li>Ed Discussion
   </ul></td>
-  <td>Jan&nbsp;15</td>
-  <td>Jan&nbsp;21</td>
-</tr> -->
+  <td>May&nbsp;10</td>
+  <td>May&nbsp;19</td>
+</tr>
 
 
 
