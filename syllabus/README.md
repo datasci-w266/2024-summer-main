@@ -55,14 +55,13 @@ By the completion of this course, students will be able to:
 
 * **Rajiv Nair**: Monday at 4pm PST
 * **Peter Grabowski**: Tuesday at 1pm PST
-* **Amit Bhattacharyya**: Friday at 11am PST
-* **Gurdit Chahal**: Wednesday at 2:30pm PST
 * **Natalie Ahn**: Tuesday at 6pm PST
+* **Gurdit Chahal**: Wednesday at 2:30pm PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
-* **Jennifer Zhu**: Thursday at 6pm PST
-* **Mark Butler**: TBD
+* **Mark Butler**: Thursday at Noon PST
 * **Rachel Gao**: Thursday at 5pm PST 
-
+* **Amit Bhattacharyya**: Friday at 11am PST
+* **Jennifer Zhu**: Friday at 4pm PST
 
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
