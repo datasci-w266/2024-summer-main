@@ -301,7 +301,15 @@ will be released around the last live session of the week and due approximately 
 </tr>
 
 
-
+<tr> <!-- a2 -->
+  <td><strong><a href="../assignment/a2" target="_blank">Assignment&nbsp;2</a></strong>
+  <td><strong>Assignment&nbsp;2</strong>
+  <ul>
+    <li>Pre-training &amp; Fine-tuning of Language Models
+  </ul></td>
+  <td>May&nbsp;24</td>
+  <td>Jun&nbsp;09</td>
+</tr>
 
 
 <tr> <!-- project proposal -->
