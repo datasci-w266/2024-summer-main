@@ -321,6 +321,17 @@ will be released around the last live session of the week and due approximately 
   <td>Jun&nbsp;16</td>
 </tr>
 
+<tr> <!-- a3 -->
+  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
+  <td><strong>Assignment 3</strong>
+  <ul>
+    <li>Multiclass Classification
+    <li>Summarization
+	<li>Question Answering
+  </ul></td>
+  <td>Jun&nbsp;14</td>
+  <td>Jun&nbsp;30</td>
+</tr>
 
 
 <tr><!--- Project Reports -->
